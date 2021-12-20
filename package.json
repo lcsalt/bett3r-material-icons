@@ -1,7 +1,7 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
+  "name": "bett3r-icons",
+  "displayName": "bett3r icons",
+  "description": "bett3r Material Design Icons for Visual Studio Code",
   "version": "4.11.0",
   "scripts": {
     "build": "npm run compile:dev && npm run postcompile",
