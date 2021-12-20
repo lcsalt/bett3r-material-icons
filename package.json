@@ -2,7 +2,7 @@
   "name": "bett3r-icons",
   "displayName": "bett3r icons",
   "description": "bett3r Material Design Icons for Visual Studio Code",
-  "version": "4.11.0",
+  "version": "0.0.2",
   "scripts": {
     "build": "npm run compile:dev && npm run postcompile",
     "check": "ts-node ./src/scripts/icons/checks",
@@ -22,19 +22,10 @@
     "test": "node ./out/test/runTest.js",
     "vscode:prepublish": "npm run lint && npm run compile && npm run package-web"
   },
-  "publisher": "PKief",
+  "publisher": "lcsalt",
   "engines": {
     "vscode": "^1.51.0"
   },
-  "homepage": "https://github.com/PKief/vscode-material-icon-theme/blob/main/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/PKief/vscode-material-icon-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/PKief/vscode-material-icon-theme/issues"
-  },
-  "icon": "logo.png",
   "galleryBanner": {
     "color": "#1e1e1e",
     "theme": "dark"
@@ -68,8 +59,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "material-icon-theme",
-        "label": "Material Icon Theme",
+        "id": "bett3r-icon-theme",
+        "label": "bett3r Icon Theme",
         "path": "./dist/material-icons.json",
         "_watch": true
       }

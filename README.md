@@ -2,12 +2,12 @@
   <br>
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/logo.png" alt="logo" width="200">
   <br><br>
-  Material Icon Theme
+  bett3r Icon Theme
   <br>
   <br>
 </h1>
 
-<h4 align="center">Get the Material Design icons into your VS Code.</h4>
+<h4 align="center">Get the bett3r Material Design icons into your VS Code.</h4>
 
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme"><img src="https://vsmarketplacebadge.apphb.com/version-short/pkief.material-icon-theme.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
