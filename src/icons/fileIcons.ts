@@ -1730,5 +1730,9 @@ export const fileIcons: FileIcons = {
     { name: 'cypress', fileNames: ['cypress.json', 'cypress.env.json'] },
     { name: 'siyuan', fileExtensions: ['sy'] },
     { name: 'ndst', fileExtensions: ['ndst.yml', 'ndst.yaml', 'ndst.json'] },
+    { name: 'command', fileExtensions: ['commands.ts'] },
+    { name: 'event', fileExtensions: ['events.ts'] },
+    { name: 'aggregate', fileExtensions: ['aggregate.ts'] },
+    { name: 'policy', fileExtensions: ['policy.ts'] },
   ],
 };
