@@ -2,7 +2,7 @@
   "name": "bett3r-icons",
   "displayName": "bett3r icons",
   "description": "bett3r Material Design Icons for Visual Studio Code",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "scripts": {
     "build": "npm run compile:dev && npm run postcompile",
     "check": "ts-node ./src/scripts/icons/checks",

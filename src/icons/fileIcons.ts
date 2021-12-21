@@ -1730,9 +1730,44 @@ export const fileIcons: FileIcons = {
     { name: 'cypress', fileNames: ['cypress.json', 'cypress.env.json'] },
     { name: 'siyuan', fileExtensions: ['sy'] },
     { name: 'ndst', fileExtensions: ['ndst.yml', 'ndst.yaml', 'ndst.json'] },
-    { name: 'command', fileExtensions: ['commands.ts'] },
-    { name: 'event', fileExtensions: ['events.ts'] },
-    { name: 'aggregate', fileExtensions: ['aggregate.ts'] },
-    { name: 'policy', fileExtensions: ['policy.ts'] },
+    {
+      name: 'command',
+      fileExtensions: [
+        'commands.ts',
+        'command.ts',
+        'commands.js',
+        'command.js',
+      ],
+    },
+    {
+      name: 'aggregate',
+      fileExtensions: [
+        'aggregate.ts',
+        'aggregates.ts',
+        'aggregate.js',
+        'aggregates.js',
+      ],
+    },
+    {
+      name: 'event',
+      fileExtensions: ['events.ts', 'event.ts', 'events.js', 'event.js'],
+    },
+    {
+      name: 'policy',
+      fileExtensions: ['policy.ts', 'policies.ts', 'policy.js', 'policies.js'],
+    },
+    {
+      name: 'projector',
+      fileExtensions: [
+        'projector.ts',
+        'projectors.ts',
+        'projector.js',
+        'projectors.js',
+      ],
+    },
+    {
+      name: 'system',
+      fileExtensions: ['system.ts', 'systems.ts', 'system.js', 'systems.js'],
+    },
   ],
 };
