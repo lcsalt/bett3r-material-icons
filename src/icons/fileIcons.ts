@@ -1757,12 +1757,12 @@ export const fileIcons: FileIcons = {
       fileExtensions: ['policy.ts', 'policies.ts', 'policy.js', 'policies.js'],
     },
     {
-      name: 'projector',
+      name: 'readmodel',
       fileExtensions: [
-        'projector.ts',
-        'projectors.ts',
-        'projector.js',
-        'projectors.js',
+        'readmodel.ts',
+        'readmodels.ts',
+        'readmodel.js',
+        'readmodels.js',
       ],
     },
     {
